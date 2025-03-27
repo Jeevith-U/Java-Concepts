@@ -1,4 +1,4 @@
-package Functional;
+package Function;
 
 @FunctionalInterface
 interface inter1{

@@ -1,4 +1,4 @@
-package Functional;
+package Function;
 
 import java.util.function.Predicate;
 

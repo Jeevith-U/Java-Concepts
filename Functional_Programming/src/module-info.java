@@ -1,8 +1,3 @@
-/**
- * 
- */
-/**
- * 
- */
+
 module Functional_Programming {
 }
