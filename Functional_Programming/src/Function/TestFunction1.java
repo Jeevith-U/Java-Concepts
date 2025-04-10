@@ -8,6 +8,6 @@ public class TestFunction1 {
 		
 		Function<String, Integer> f = s -> s.length() ;
 		
-		System.out.println(f.apply("SanjanaCheckLength.java"));
+		System.out.println(f.apply("JeeLovesSan"));
 	}
 }
